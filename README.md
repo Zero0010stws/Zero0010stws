@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Danilo(@Zero0010stws)
+- 👋 Hi, I’m Danilo(@Zero)
 - 👀 I’m interested in Backend service
 - 🌱 I’m currently learning Js and ABAP
 - 💞️ I’m looking to collaborate on Google/Amazon
